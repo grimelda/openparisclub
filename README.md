@@ -1,5 +1,3 @@
-**READ ME**
-
 **The Paris Club Dataset (1956–2026):**   
 **Sovereign Debt Restructuring Agreements**
 
