@@ -81,7 +81,7 @@ Van der Zaag, Jochem Date; Van Mourik, Sven; Blackmon, Pamela, 2026, “The Pari
 
 All data and documentation are licensed under Creative Commons Attribution 4.0 International (CC BY 4.0), permitting reuse with attribution.
 
-The Python code used for web scraping and data processing is hosted under the GPL-3.0 license at: [https://github.com/grimelda/openparisclub](https://github.com/grimelda/openparisclub) 
+The Python code used for web scraping and data processing is hosted under the GPL-3.0 license at: [https://github.com/grimelda/openparisclub](https://github.com/grimelda/openparisclub). Note that the legacy method for data extraction can be found under the `deprecated workflow` branch, and the current `main` branch hosts the (incomplete) workflow that partially works for the current website (April 2026), see Methodology.pdf for detailed description.
 
 ## **6\. Contact**
 
