@@ -33,7 +33,7 @@ In terms of terminology, we take “agreement” to refer to the formal document
 
 ## **2\. File Formats and Structure**
 
-The [dataset]{https://doi.org/10.7910/DVN/BBWLO8} is provided in four formats to accommodate different research needs:
+The [dataset](https://doi.org/10.7910/DVN/BBWLO8) is provided in four formats to accommodate different research needs:
 
 * **Excel workbook** – The complete dataset, which includes both long and tabular layouts for flexible analysis, and notes on individual fields where manual editing was required.
 
